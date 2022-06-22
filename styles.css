@@ -17,3 +17,10 @@ h2.blue {
     margin-right: auto;
     max-width: 23%;
 }
+
+.youtube {
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    max-width: 100%;
+}
